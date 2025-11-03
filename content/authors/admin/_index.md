@@ -1,20 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Yunkai Zhang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
-
-# Status emoji
-status:
-  icon: 🚀
+first_name: Yunkai
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,61 +16,52 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Berkeley AI Research
+    url: https://bair.berkeley.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:yunkai_zhang@berkeley.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/zhykoties
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/zhang-yunkai/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
+  - Time Series
   - Reinforcement Learning
-  - AI Ethics
+  - Recommender Systems
+  - ML for Systems
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD IEOR (AI Focus)
+    institution: University of California, Berkeley
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2020
+    date_end: 2025
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: BS Mathematics & Computer Science
+    institution: University of California, Santa Barbara (College of Creative Studies)
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2016
+    date_end: 2020
     summary: |
       GPA: 3.9/4.0
 
