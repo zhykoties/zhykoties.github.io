@@ -20,7 +20,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Berkeley AI Research
+  - name: UC Berkeley
     url: https://bair.berkeley.edu/
 
 # Social network links
@@ -47,8 +47,8 @@ interests:
   - ML for Systems
 
 education:
-  - area: PhD IEOR (AI Focus)
-    institution: University of California, Berkeley
+  - area: PhD at BAIR
+    institution: UC Berkeley
     icon: ""
     date_start: 2020
     date_end: 2025
@@ -57,8 +57,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: BS Mathematics & Computer Science
-    institution: University of California, Santa Barbara (College of Creative Studies)
+  - area: BS Mathematics
+    institution: UC, Santa Barbara (College of Creative Studies)
     icon: ""
     date_start: 2016
     date_end: 2020
@@ -66,16 +66,27 @@ education:
       GPA: 3.9/4.0
 
       Minored in Mathematics. President of AI Club.
+  - area: BS Computing
+    institution: UC, Santa Barbara (College of Creative Studies)
+    icon: ""
+    date_start: 2018
+    date_end: 2020
+    summary: |
+      GPA: 3.9/4.0
+
+      Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
+  - position: Visiting Researcher
     company_name: Meta AI
     company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    date_start: 2024-09
+    date_end: 2025-08
+    summary: |
+      - Mentors: Qiang Zhang, Yinglong Xia
+      - A year-long collaboration program between BAIR and the Modern Recommender Systems team at Meta, as a part of the AIM Program.
+      - Worked on generative recommender systems such as HSTU and HLLM.
   - position: AI Research Intern
     company_name: OpenAI
     company_url: 'https://openai.com/'
@@ -122,8 +133,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
