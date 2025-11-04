@@ -50,8 +50,8 @@ education:
   - area: PhD at BAIR
     institution: UC Berkeley
     icon: ""
-    date_start: 2020
-    date_end: 2025
+    date_start: 2020-08-20
+    date_end: 2025-12-31
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
@@ -60,8 +60,8 @@ education:
   - area: BS Mathematics
     institution: UC, Santa Barbara (College of Creative Studies)
     icon: ""
-    date_start: 2016
-    date_end: 2020
+    date_start: 2016-09-28
+    date_end: 2020-06-04
     summary: |
       GPA: 3.9/4.0
 
@@ -69,8 +69,8 @@ education:
   - area: BS Computing
     institution: UC, Santa Barbara (College of Creative Studies)
     icon: ""
-    date_start: 2018
-    date_end: 2020
+    date_start: 2018-01-01
+    date_end: 2020-06-04
     summary: |
       GPA: 3.9/4.0
 
@@ -81,8 +81,8 @@ work:
     company_name: Meta AI
     company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2024-09
-    date_end: 2025-08
+    date_start: 2024-09-30
+    date_end: 2025-08-22
     summary: |
       - Mentors: Qiang Zhang, Yinglong Xia
       - A year-long collaboration program between BAIR and the Modern Recommender Systems team at Meta, as a part of the AIM Program.
