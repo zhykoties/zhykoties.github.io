@@ -51,28 +51,25 @@ education:
     date_start: 2020-08-20
     date_end: 2025-12-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      - GPA: 3.80/4.0
+      - Supported by National Science Foundation Graduate Research Fellowship (NSF-GRFP).
+      - MEng Capstone Faculty Mentorship Award.
   - area: BS Mathematics
-    institution: UC, Santa Barbara (College of Creative Studies)
+    institution: UC Santa Barbara (College of Creative Studies)
     icon: ""
     date_start: 2016-09-28
     date_end: 2020-06-04
     summary: |
-      GPA: 3.9/4.0
+      - GPA: 3.89/4.0
 
-      Minored in Mathematics. President of AI Club.
   - area: BS Computing
-    institution: UC, Santa Barbara (College of Creative Studies)
+    institution: UC Santa Barbara (College of Creative Studies)
     icon: ""
     date_start: 2018-01-01
     date_end: 2020-06-04
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      - Advisor: Professor Xifeng Yan.
+      - Alumni Association Scholarship, SURF research fellowship, URCA undergraduate research grant x2.
 
 work:
   - position: Visiting Researcher
