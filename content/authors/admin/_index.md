@@ -29,16 +29,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yunkai_zhang@berkeley.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/zhykoties
+  - icon: brands/youtube
+    url: https://www.youtube.com/@yunkaizhang3555
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zhang-yunkai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=J48boCIAAAAJ
 
 interests:
   - Time Series
@@ -87,14 +85,69 @@ work:
       - Mentors: Qiang Zhang, Yinglong Xia
       - A year-long collaboration program between BAIR and the Modern Recommender Systems team at Meta, as a part of the AIM Program.
       - Worked on generative recommender systems such as HSTU and HLLM.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: Research Intern - Time Series
+    company_name: Apple AIML
+    company_url: ''
+    icon: ''
+    date_start: 2024-05-01
+    date_end: 2024-09-30
+    summary: |
+      - Mentors: Dr. Lauren Hannah, Dr. Haraldur Hallgrímsson
+      - Time series with causal structures.
+  - position: AI Resident - Time Series
+    company_name: Google X - Mineral.ai
+    company_url: ''
+    icon: ''
+    date_start: 2023-06-01
+    date_end: 2024-02-29
+    summary: |
+      - Mentors: Dr. Yawen Zhang, Dr. Ming Zheng, Dr. Kezhen Chen
+      - Project 1 - Multimodality: enable LLM to understand time series data and write a textual description.
+      - Project 2 - Foundation model: time series pretraining analysis, where we study how the availability of downstream data affects the finetuning performance, and propose a strong baseline.
+  - position: Research Intern - ML for Systems
+    company_name: ByteDance
+    company_url: ''
+    icon: ''
+    date_start: 2022-05-01
+    date_end: 2022-11-30
+    summary: |
+      - Mentor: Dr. Tieying Zhang
+      - Worked on the ByteBrain team. We focus on ML for Infrastructure.
+      - I was primarily involved in two projects: 1. time series representation learning with contrastive learning, as well as interpretable time series forecasting by attending to the most relevant candidate sequence in the history; 2. virtual machine rescheduling using reinforcement learning, involving transformers and risk-seeking RL.
+      - I was also involved in a third project on job scheduling in the cloud.
+  - position: Applied Scientist Intern - Time Series
+    company_name: Amazon A9
+    company_url: ''
+    icon: ''
+    date_start: 2020-05-01
+    date_end: 2020-08-31
+    summary: |
+      - Mentors: Dr. Anbo Chen, Dr. Shan Kang
+      - Worked on time series forecasting of web traffic data on the Amazon Advertising Technology team with deep learning.
+      - Extended transformer's applicability for long-term predictions on small datasets. Built a visualization tool for monitoring feature importance over the course of training.
+  - position: Research Intern - Time Series
+    company_name: WeWork
+    company_url: ''
     icon: ''
     date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_end: 2019-09-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      - Mentors: Dr. Yun Chi, Dr. Haixun Wang
+      - Predicted conference room occupancy for WeWork offices; improved forecasting accuracy by 30% compared to the original implementation.
+      - Introduced a non-autoregressive transformer that lowers the time complexity for multi-step forecasting from O(L) to O(1).
+      - Proposed a novel training technique for transformers on small-scale datasets.
+  - position: Student Researcher - Neural Network Quantization
+    company_name: RIPS REU Program, IPAM, UCLA
+    company_url: ''
+    icon: ''
+    date_start: 2017-06-01
+    date_end: 2017-08-31
+    summary: |
+      - Mentors: Dr. Nicholas Malaya, Dr. Alan Lee
+      - Sponsored by AMD, the project was to explore the resiliency of convolutional neural networks to reduced numerical precisions.
+      - Showed that larger batch sizes might lead to poorer results under low precision via simulated experiments and delivered preliminary proofs for error scaling in forward and backward propagations.
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -141,27 +194,27 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+  - title: NSF-GRFP
+    url: https://www.nsfgrfp.org/
+    date: '2020-01-01'
+    awarder: National Science Foundation (NSF)
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      NSF recognizes and supports outstanding STEM students for three years.
+  - title: MEng Capstone Mentorship Award
+    url: https://funginstitute.berkeley.edu/capstone-showcase-2022/
+    date: '2022-05-05'
+    awarder: UC Berkeley
+    icon: hero/trophy
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awards to two faculty instructors every year.
+  - title: Alumni Association Scholarship
+    url: https://www.alumni.ucsb.edu/about/student-scholarships
+    date: '2018-01-01'
+    awarder: UC Santa Barbara
+    icon: hero/trophy
+    summary: |
+      Awarded $2000 to each of the 33 students in 2018.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Yunkai Zhang is a final-year PhD candidate at UC Berkeley, affliated with BAIR and advised by Prof. Zeyu Zheng. He works on time series (forecasting, multimodal QA, foundation models), reinforcement learning (AIOps, safe RL), and recommender systems. His research is supported by NSF-GRFP. Outside of work, he plays all kinds of sports (but being good at none), trading stocks, and mentoring the next generation of AI talent. Feel free to reach out if you are looking for collaborations!
