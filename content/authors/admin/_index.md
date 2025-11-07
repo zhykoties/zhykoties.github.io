@@ -72,7 +72,7 @@ education:
       - Alumni Association Scholarship, SURF research fellowship, URCA undergraduate research grant x2.
 
 work:
-  - position: Visiting Researcher
+  - position: Visiting Researcher - Recommender Systems
     company_name: Meta AI
     company_url: 'https://ai.meta.com/'
     icon: ''
