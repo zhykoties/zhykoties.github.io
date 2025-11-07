@@ -214,4 +214,4 @@ awards:
       Awarded $2000 to each of the 33 students in 2018.
 ---
 
-Yunkai Zhang is a final-year PhD candidate at UC Berkeley, affliated with BAIR and advised by Prof. Zeyu Zheng. He works on time series (forecasting, multimodal QA, foundation models), reinforcement learning (AIOps, safe RL), and recommender systems. His research is supported by NSF-GRFP. Outside of work, he plays all kinds of sports (but being good at none), trading stocks, and mentoring the next generation of AI talent. Feel free to reach out if you are looking for collaborations!
+Yunkai Zhang is a final-year PhD candidate at UC Berkeley, affiliated with BAIR and advised by Prof. Zeyu Zheng. He works on time series (forecasting, multimodal QA, foundation models), reinforcement learning (AIOps, safe RL), and recommender systems. His research is supported by NSF-GRFP. Outside of work, he plays all kinds of sports (but being good at none), trading stocks, and mentoring the next generation of AI talent. Feel free to reach out if you are looking for collaborations!
